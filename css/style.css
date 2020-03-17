@@ -66,6 +66,12 @@
 			height: auto;
 		    }
 
+		  .title{
+		  	margin: 0 auto;
+		  	width: 100%;
+		  	text-align: center;
+		  }
+
 		@media (max-width: 1000px){
 			.container{ max-width: 600px; }
 			.feature{
