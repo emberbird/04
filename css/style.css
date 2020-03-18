@@ -1,5 +1,9 @@
 
 
+	.item a:hover {
+		opacity: 0.8;
+		box-shadow: 0 0 6px -1px rgba(0,0,0,0.3);}
+
 		#logo{
 			float: left;
 		}
